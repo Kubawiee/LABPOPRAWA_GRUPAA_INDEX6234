@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button</name>
+   <tag></tag>
+   <elementGuidId>a905b6bd-354d-43b6-84ff-35117fd9e407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;loginbtn&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[&quot;loginbtn&quot;]
+</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

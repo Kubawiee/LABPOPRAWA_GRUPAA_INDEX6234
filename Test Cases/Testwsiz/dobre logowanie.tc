@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dobre logowanie</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f84a53e3-ac45-4084-8b0a-b6f1126db49d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>532c61cb-a354-47c5-99a4-8b93e5c11bb4</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>810e0772-b369-464f-a484-9e2ff6f65c32</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

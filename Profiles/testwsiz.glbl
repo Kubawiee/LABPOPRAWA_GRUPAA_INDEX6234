@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>testwsiz</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>adres logowania</description>
+      <initValue>'https://elearning.wsiz.wroc.pl/login/index.php'</initValue>
+      <name>urllogin</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
